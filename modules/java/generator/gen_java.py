@@ -12,7 +12,6 @@ class_ignore_list = (
     #core
     "FileNode", "FileStorage", "KDTree",
     #highgui
-    #"VideoWriter",
 )
 
 const_ignore_list = (
